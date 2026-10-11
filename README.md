@@ -107,4 +107,4 @@ DELETE	/api/books/{book}	Delete a book				                    Yes
 
 ## 4. Why DELETE Returns 204 Instead of 200.
 
-The difference between the two codes is quite simple. 200 OK is a response that includes a message body with data. All while a 204 No Content returns no body at all.
+The difference between the two codes is quite simple. 200 OK is a response that includes a message body with data. All while a 204 No Content returns no body at all. Thus, the client knows the deletion worked without receiving unnecessary content.
