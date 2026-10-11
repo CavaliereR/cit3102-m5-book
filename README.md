@@ -105,6 +105,6 @@ DELETE	/api/books/{book}	Delete a book				                    Yes
 10. Delete a book — expected `204 No Content`
 ![alt text](image-9.png)
 
-## 4. Why DELETE Returns 204 Instead of 200
+## 4. Why DELETE Returns 204 Instead of 200.
 
 The difference between the two codes is quite simple. 200 OK is a response that includes a message body with data. All while a 204 No Content returns no body at all.
