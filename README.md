@@ -2,7 +2,7 @@
 
 **Project:** `cit3102-m5-book`
 **Section:** IT2E
-**Partners:** Sedilla Robb Jason G. and Gacutan Kevin Perez
+**Partners:** Sedilla Robb Jason G. and Gacutan Kevin Perez (Ghosty)
 **Claimed resource:** Book
 
 ## 1. Project Setup
